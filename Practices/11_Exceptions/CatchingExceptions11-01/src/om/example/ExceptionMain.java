@@ -43,3 +43,8 @@ public class ExceptionMain {
         }
     }
 }
+
+
+/*
+"C:\Users\thlok\Documents\7. Java Advanced\Books\D84838GC10_labs/labs\resources\home\oracle\labs\resources\DeclarationOfIndependence.txt"
+*/
